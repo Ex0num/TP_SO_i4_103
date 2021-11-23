@@ -1,0 +1,29 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+-Gabriel Lopez
+-Valentin Laplume
+-Stefano Mugetti
+
+
+A-El fondo de la pagina en TESTING es de color amarillo.
+B-El fondo de la pagina en DESARROLLO es de color rojo.
+C-El fondo de la pagina en DESARROLLO es de color amarillo.
+D-Quedo el favicon de ALFA.
+
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E-No hubo problemas con el push.
+F-Hubo conflictos al querer hacer el merge entre las distintas ramas.
+G-Se pueden resolver los conflictos manualmente. La consecuencia seria la correcta fusion entre ramas.
+H-Hace un push forzado, elimina todo lo que hay y agrega todo lo que tenes.
+I-Deberia fusionar la rama testing y a rama desarrollo.
